@@ -11,6 +11,6 @@ mkdocs-material==7.3.4
 mkdocs-minify-plugin==0.4.1
 mypy==0.910
 yapf==0.31.0
-build==0.6.1
+build==0.7.0
 
 pytest==6.2.4
